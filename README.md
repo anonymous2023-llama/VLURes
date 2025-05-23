@@ -1,6 +1,8 @@
 # VLURes
 The repo contains data for the NeurIPS 2025 submission
 
+⚠️ **Data files per language are provided at this Hugging Face repo: https://huggingface.co/datasets/atamiles/VLURes** ⚠️
+
 # VLM Response Generation Scripts
 
 This repository contains scripts to automate the process of generating responses from Vision-Language Models (VLMs) using their respective APIs. It's designed to process a dataset of images and image-text pairs across multiple tasks and languages as part of the VLURes benchmark.
